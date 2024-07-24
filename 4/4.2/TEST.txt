@@ -1,0 +1,2 @@
+	9	6	5	3	3	2	2
+Tong cac phan tu am: 0
